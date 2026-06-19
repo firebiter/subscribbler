@@ -1,5 +1,5 @@
 # subscribbler
-Subscribbler website
+Subscribbler website with test links
 - [Test link](/page/test.md)
 
 ## Words
