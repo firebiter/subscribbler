@@ -1,3 +1,3 @@
 # subscribbler
 Subscribbler website
-[An Internal Link](/page/test.md)
+- [Test link](/page/test.md)
