@@ -1,6 +1,8 @@
-# subscribbler
+# Subscribbler
 Subscribbler website with test links
 - [Test link](/page/test.md)
 
-## Words
+## Pages
   - [Wake](/word/wake.md)
+  - [Photos](/page/photos.md)
+
